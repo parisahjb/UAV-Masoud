@@ -1,0 +1,40 @@
+
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Output files
+*.png
+*.jpg
+*.pdf
+*.svg
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
