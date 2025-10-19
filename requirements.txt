@@ -6,15 +6,3 @@ plotly>=5.17.0
 requests>=2.31.0
 Pillow>=10.0.0
 ```
-
-### Step 4: Create `.gitignore`
-```
-__pycache__/
-*.py[cod]
-.env
-.streamlit/secrets.toml
-*.png
-*.jpg
-*.pdf
-venv/
-.DS_Store
