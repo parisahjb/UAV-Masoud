@@ -2,7 +2,7 @@
 
 AI-powered UAV trajectory generator with custom spatial distributions using LLMs.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fkfynx7rdlkie7b5beisxz.streamlit.app/)
 
 ## 🚀 Quick Start
 
